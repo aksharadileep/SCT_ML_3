@@ -6,7 +6,6 @@ models/
 *.joblib
 *.jpg
 *.jpeg
-*.png
 
 # Python
 __pycache__/
