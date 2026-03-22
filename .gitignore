@@ -1,0 +1,18 @@
+@"
+# Large files - DO NOT UPLOAD
+data/
+models/
+*.pkl
+*.joblib
+*.jpg
+*.jpeg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
